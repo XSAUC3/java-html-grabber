@@ -6,4 +6,4 @@ A Simple Java Swing app that craws and fetch's any websie html and pastes it int
 
 Command: ``javac MyPanel.java`` - To Compile the File
 
-         ``java MyPanel`` - To Run The File 
+            ``java MyPanel`` - To Run The File 
